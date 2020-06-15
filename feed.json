@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://vgerbase.github.io/campo-psicanalitico/bloomsday-2020/",
+            "url": "https://vgerbase.github.io/campo-psicanalitico/bloomsday-2020/",
+            "title": "Bloomsday 2020",
+            "summary": " ",
+            "content_html": "<p><img class=\"post__image post__image--center\" src=\"https://vgerbase.github.io/campo-psicanalitico/media/posts/7/56383272-7d02-4b19-af75-2582994a6a52.jpg\" alt=\"Bloomsday 2020\"></p>\n<h2 class=\"align-center\">Leitores Bloomsday 2020 (programação)</h2>\n<ul>\n<li><strong>Edina Amorim:</strong> (Vídeo e abertura)</li>\n<li><strong>Vanessa Lima:</strong> Música/teclado</li>\n<li><strong>Jairo Gerbase:</strong> \"A experiência James Joyce\"</li>\n<li><strong>Carolina Lima:</strong> \"Um olhar por Dublin\"</li>\n<li><strong>Bruno Emanuel:</strong> \"The Lass of Aughrim\" (Cartas a Nora - 1909)</li>\n<li><strong>Clarice Gatto:</strong> Fragmento 18 (Panoramas do Finnegans Wake)</li>\n<li><strong>Cristianne Sampaio:</strong> \"O gato e o Diabo\" (Carta de Joyce ao neto Stephen - 1936)</li>\n<li><strong>Lucia Castello Branco:</strong> \"Monólogo de Molly Bloom\" (Ulisses - transcrição Haroldo de Campos - 1971)</li>\n<li><strong>Raphael Reis:</strong> \"Banzeiro\" (Finnegans Wake)</li>\n<li><strong>Renata Badaró:</strong> \"Rosas são Rosas?\" (Retrato do Artista quando Jovem)</li>\n<li><strong>Sonia Magalhães:</strong> \"CERTA VEZ...\" (Retrato do Artista quando Jovem)</li>\n<li><strong>Ubirajara Cardoso:</strong> \"The LEtter! The Litter! A letra! O Lixo!\" (Finnegans Wake - por um FIO)</li>\n<li><strong>Vera Motta:</strong> \"Brasil o Bravo!\" (Finnegans Wake)</li>\n</ul>\n<p><img class=\"post__image post__image--center\" src=\"https://vgerbase.github.io/campo-psicanalitico/media/posts/7/6848bc7a-3784-41bb-88ac-bff9fb86681a.jpg\" alt=\"Boas-vindas ao Bloomsday 2020\"></p>",
+            "author": {
+                "name": "Campo Psicanalítico"
+            },
+            "tags": [
+                   "eventos"
+            ],
+            "date_published": "2020-06-15T00:00:00+01:00",
+            "date_modified": "2020-06-15T23:09:47+01:00"
+        },
+        {
             "id": "https://vgerbase.github.io/campo-psicanalitico/membros/",
             "url": "https://vgerbase.github.io/campo-psicanalitico/membros/",
             "title": "Membros",
