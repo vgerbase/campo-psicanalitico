@@ -103,6 +103,42 @@
             "date_modified": "2020-06-17T22:01:21+01:00"
         },
         {
+            "id": "https://vgerbase.github.io/campo-psicanalitico/a-hipotese-de-lacan/",
+            "url": "https://vgerbase.github.io/campo-psicanalitico/a-hipotese-de-lacan/",
+            "title": "A hipótese de Lacan",
+            "summary": "No campo que nos concerne, o do sintoma dito mental, há pelo menos três orientações bem definidas: a da psicologia, que supõe que a condição da formação do sintoma seja o ambiente (a família, a sociedade, o capitalismo), a da biologia, que supõe que a&hellip;",
+            "content_html": "<p>No campo que nos concerne, o do sintoma dito mental, há pelo menos três orientações bem definidas: a da psicologia, que supõe que a condição da formação do sintoma seja o ambiente (a família, a sociedade, o capitalismo), a da biologia, que supõe que a condição da formação do sintoma seja a genética (a hereditariedade, a neurotransmissão) e a da psicanálise, que supõe que a condição da formação do sintoma seja o real.</p>\n<p><a href=\"https://vgerbase.github.io/campo-psicanalitico/media/files/a-hipotese-de-lacan.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" download=\"download\">A hipótese de Lacan</a></p>",
+            "author": {
+                "name": "Campo Psicanalítico"
+            },
+            "tags": [
+                   "sujeito",
+                   "real",
+                   "inconsciente",
+                   "corpo",
+                   "biblioteca"
+            ],
+            "date_published": "2020-01-01T00:00:00+00:00",
+            "date_modified": "2020-06-18T00:25:54+01:00"
+        },
+        {
+            "id": "https://vgerbase.github.io/campo-psicanalitico/a-dimensao-etica-da-travessia-da-fantasia/",
+            "url": "https://vgerbase.github.io/campo-psicanalitico/a-dimensao-etica-da-travessia-da-fantasia/",
+            "title": "A dimensão ética da travessia da fantasia",
+            "summary": "Especificidades da ética da psicanálise - Angélia Teixeira (Organizadora) Publicação da Associação Científica Campo Psicanalítico A dimensão ética da travessia da fantasia",
+            "content_html": "<p>Especificidades da ética da psicanálise - Angélia Teixeira (Organizadora)</p>\n<p>Publicação da Associação Científica Campo Psicanalítico</p>\n<p><a href=\"https://vgerbase.github.io/campo-psicanalitico/media/files/especificidades-da-etica-da-psicanalise.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" download=\"download\">A dimensão ética da travessia da fantasia</a></p>",
+            "author": {
+                "name": "Campo Psicanalítico"
+            },
+            "tags": [
+                   "ética",
+                   "psicanálise",
+                   "biblioteca"
+            ],
+            "date_published": "2020-01-01T00:00:00+00:00",
+            "date_modified": "2020-06-18T00:42:16+01:00"
+        },
+        {
             "id": "https://vgerbase.github.io/campo-psicanalitico/a-crianca-em-nos/",
             "url": "https://vgerbase.github.io/campo-psicanalitico/a-crianca-em-nos/",
             "title": "A criança em nós",
